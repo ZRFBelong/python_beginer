@@ -28,3 +28,11 @@ print(listb.append(66))
 print(listb.count(66))
 print(len(listb))
 print(listb.__add__([1,2,3,4,5,66]))
+
+
+# 斐波那契数列：
+# 前两项之和即下一项的值
+a, b = 0, 1
+while a < 10000:
+    print(a,end='-')
+    a, b = b, a+b
