@@ -6,3 +6,9 @@
 
 
 3-3 LIST Basic usage
+
+4-1 if 
+
+4-2 for 
+
+4-2 range()
